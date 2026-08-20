@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-20",
   "slots": {
-    "am": null,
+    "am": "2026-08-20T11:24:10+08:00",
     "pm": null
   },
-  "last_success_at": null,
-  "last_runner": null
+  "last_success_at": "2026-08-20T11:24:10+08:00",
+  "last_runner": "windows-591"
 }
